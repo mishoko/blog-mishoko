@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to work with REC-721</title>
+      <link>//localhost:1313/posts/test-blog-1/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/test-blog-1/</guid>
+      <description>&lt;p&gt;first blog&lt;/p&gt;
+&lt;p&gt;![[Screenshot 2024-10-31 at 4.11.41 PM.png]]&lt;/p&gt;
+&lt;p&gt;Test hugo framweork and check&lt;/p&gt;</description>
+      <content>&lt;p&gt;first blog&lt;/p&gt;
+&lt;p&gt;![[Screenshot 2024-10-31 at 4.11.41 PM.png]]&lt;/p&gt;
+&lt;p&gt;Test hugo framweork and check&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
