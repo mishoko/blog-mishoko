@@ -13,12 +13,14 @@
       
       <guid>//localhost:1313/posts/test-blog-post-xyz/</guid>
       <description>&lt;p&gt;grok pricing:&lt;/p&gt;
-&lt;p&gt;![[Screenshot 2024-11-15 at 10.15.29 AM.png]]&lt;/p&gt;
-&lt;p&gt;another image: ![[Screenshot 2024-11-25 at 8.05.33 AM.png]]&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;another image:&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;and yu godd&lt;/p&gt;</description>
       <content>&lt;p&gt;grok pricing:&lt;/p&gt;
-&lt;p&gt;![[Screenshot 2024-11-15 at 10.15.29 AM.png]]&lt;/p&gt;
-&lt;p&gt;another image: ![[Screenshot 2024-11-25 at 8.05.33 AM.png]]&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;another image:&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;and yu godd&lt;/p&gt;
 </content>
     </item>

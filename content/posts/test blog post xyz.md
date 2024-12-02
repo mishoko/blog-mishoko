@@ -7,8 +7,11 @@ tags:
 
 grok pricing:
 
-![[Screenshot 2024-11-15 at 10.15.29 AM.png]]
+!![](/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png)
 
-another image: ![[Screenshot 2024-11-25 at 8.05.33 AM.png]]
+another image: 
+
+
+!![](/images/Screenshot.png)
 
 and yu godd
