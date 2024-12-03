@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aHow to work with REC-7721</title>
-      <link>//localhost:1313/posts/123456/</link>
+      <link>/posts/123456/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/123456/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
+      <guid>/posts/123456/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;first blog test&lt;/p&gt;</description>
-      <content>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;first blog test&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>cool guide</title>
-      <link>//localhost:1313/posts/test-blog-post-xyz/</link>
+      <link>/posts/test-blog-post-xyz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/test-blog-post-xyz/</guid>
+      <guid>/posts/test-blog-post-xyz/</guid>
       <description>&lt;p&gt;grok pricing:&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;another image:&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;and yu godd&lt;/p&gt;</description>
       <content>&lt;p&gt;grok pricing:&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;another image:&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;and yu godd&lt;/p&gt;
 </content>
     </item>

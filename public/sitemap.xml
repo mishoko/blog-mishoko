@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/123456/</loc>
+    <loc>/posts/123456/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hop/</loc>
+    <loc>/tags/hop/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/solid/</loc>
+    <loc>/tags/solid/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/test-blog-post-xyz/</loc>
+    <loc>/posts/test-blog-post-xyz/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/mongodb/</loc>
+    <loc>/tags/mongodb/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/nodejs/</loc>
+    <loc>/tags/nodejs/</loc>
   </url>
 </urlset>
