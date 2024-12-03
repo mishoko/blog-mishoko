@@ -1,3 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Solid on Terminal</title><link>/tags/solid/</link><description>Recent content in Solid on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/solid/index.xml" rel="self" type="application/rss+xml"/><item><title>aHow to work with REC-7721</title><link>/posts/123456/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>/posts/123456/</guid><description>&lt;p>!&lt;img src="/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png">&lt;/p>
-&lt;p>first blog test&lt;/p></description><content>&lt;p>!&lt;img src="/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png">&lt;/p>
-&lt;p>first blog test&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solid on Terminal</title>
+    <link>//localhost:1313/tags/solid/</link>
+    <description>Recent content in Solid on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/solid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aHow to work with REC-7721</title>
+      <link>//localhost:1313/posts/123456/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/123456/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;first blog test&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%208.12.43%20AM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;first blog test&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
