@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>aHow to work with REC-721</title><link>/posts/123/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>/posts/123/</guid><description>&lt;p>first blog&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot%202024-10-31%20at%204.11.41%20PM.png">&lt;/p>
-&lt;p>Test hugo framweork and check&lt;/p></description><content>&lt;p>first blog&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot%202024-10-31%20at%204.11.41%20PM.png">&lt;/p>
-&lt;p>Test hugo framweork and check&lt;/p></content></item><item><title>cool guide</title><link>/posts/test-blog-post-xyz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/test-blog-post-xyz/</guid><description>&lt;p>grok pricing:&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png">&lt;/p>
-&lt;p>another image:&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot.png">&lt;/p>
-&lt;p>and yu godd&lt;/p></description><content>&lt;p>grok pricing:&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot%202024-11-15%20at%2010.15.29%20AM.png">&lt;/p>
-&lt;p>another image:&lt;/p>
-&lt;p>!&lt;img src="/images/Screenshot.png">&lt;/p>
-&lt;p>and yu godd&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
