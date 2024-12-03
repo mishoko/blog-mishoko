@@ -22,5 +22,20 @@
 </content>
     </item>
     
+    <item>
+      <title>aHow to work with REC-721</title>
+      <link>//localhost:1313/posts/123456/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/123456/</guid>
+      <description>&lt;p&gt;first blog&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%204.11.41%20PM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Test hugo framweork and check&lt;/p&gt;</description>
+      <content>&lt;p&gt;first blog&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202024-10-31%20at%204.11.41%20PM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Test hugo framweork and check&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
