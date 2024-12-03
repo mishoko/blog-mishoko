@@ -22,7 +22,7 @@ fi
 echo "Current branch after switch: $(git branch --show-current)"
 
 # Build Hugo site
-hugo --minify
+hugo -t terminal
 
 # Delete everything except .git and public
 find . -maxdepth 1 ! -name '.git' ! -name 'public' ! -name '.' ! -name '..' -exec rm -rf {} +
